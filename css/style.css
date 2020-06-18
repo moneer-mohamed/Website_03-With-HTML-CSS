@@ -535,6 +535,8 @@ nav ul li a:hover span:last-child:after{
 .first{
     margin-bottom: 400px;
     background-color: #000;
+    position: relative;
+    z-index: -1;
 }
 .fixed{
     position: fixed;
